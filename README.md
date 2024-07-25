@@ -1,7 +1,3 @@
-Here's a short and concise README file for the flight price prediction project:
-
----
-
 # Flight Price Prediction
 
 This project aims to predict flight prices using machine learning techniques. The dataset contains various features related to flights, and the model is trained to estimate flight prices based on these features.
